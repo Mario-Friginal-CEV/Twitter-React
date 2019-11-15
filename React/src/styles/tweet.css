@@ -1,0 +1,40 @@
+.media1{
+    border: 1px solid grey;
+    padding: 0.5rem;
+    align-items: flex-start;
+    display: flex;
+    text-align: left;
+    max-width: 40rem;
+}
+
+.media-left{
+    margin: 1rem;
+}
+
+.foto{
+    border-radius: 50%
+}
+
+.content{
+    max-width: 30rem;
+}
+
+.postData {
+    display: flex;
+    flex-direction: row;
+}
+
+.username{
+    margin-left: 0.5rem;
+}
+
+.tweetText{
+    color: white;
+    height:30px;
+   line-height:15px;
+   overflow:hidden;
+}
+
+.icons{
+    margin-left: 5rem;
+}

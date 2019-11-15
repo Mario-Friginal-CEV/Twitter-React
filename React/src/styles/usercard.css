@@ -1,0 +1,61 @@
+.userCard{
+    width: 18rem;
+    border: 1px solid grey;
+}
+
+.data{
+    display: flex;
+    flex-direction: row;
+}
+.profileImage{
+    margin-left: 0.5rem;
+    margin-top: -2.5rem;
+}
+
+.image{
+    border: 3px solid #1c2938;
+    border-radius: 50%;
+    width: 25%;
+}
+
+.userData{
+    margin-top: 0.25rem;
+    margin-left : 6rem;
+    position: absolute;
+}
+
+
+.name{
+    color: white;
+    font-weight: bold;
+}
+
+.userName{
+    color: inherit;
+}
+
+.tweetsFollows{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    height: 4rem;
+    font-weight: bold;
+    margin-left: -0.5rem;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+    width: 6rem;
+    height: 4rem;
+    align-items: center;
+}
+
+.top{
+    color: inherit;
+}
+
+.under{
+    color: rgb(27, 126, 255);
+    font-weight: bold;
+}

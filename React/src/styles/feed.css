@@ -1,0 +1,14 @@
+.userCard1{
+    margin-top: 1rem;
+    margin-left: 22rem;
+}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+}
+
+.feed{
+    margin-top: 1rem;
+    margin-left: 0.6rem;
+}

@@ -1,0 +1,51 @@
+.userprofile{
+}
+
+.fondito{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    box-shadow: -1px -2px 1px 2px #0000001a inset;
+    margin: -1rem;
+}
+
+.follows{
+    padding-top: 2rem;
+    margin-left: -0.1rem;
+    width: 125rem;
+    border: 1px solid grey;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.block{
+    padding-top: 0.3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.fotoPerfil{
+    width: 220px;
+    margin-left: -30rem;
+    margin-right: 10rem;
+    border-radius: 50%;
+    margin-top: -5rem;
+    border: 7px solid #1c2938;
+}
+
+.editTweet{
+    margin-left: 40rem;
+    background: inherit;
+    border-radius: 30px;
+    border: 1px solid grey;
+    color: grey;
+    font-weight: bold;
+    height: 2.2rem;
+    width: 5.6rem;
+    color: white;
+    font-weight: bold;
+    padding: 0 2px 2px 3px;
+}
